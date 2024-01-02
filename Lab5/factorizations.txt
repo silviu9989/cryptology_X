@@ -1,0 +1,68 @@
+N1 1267650600228229401496703205376 31
+N1 2 100  TrialDivision with bound:1000000 and length:10
+N1  1024 3  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+N2 69470986277398276682046998304329 32
+N2 1021 3 1657 1 1663 1 1811 3 1997 2  TrialDivision with bound:1000000 and length:10
+N2  1657 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1021 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N3 74981672081934458260565458974847 32
+N3 1091 1 1361 2 1607 3 1637 2 1669 1 1999 1  TrialDivision with bound:1000000 and length:10
+N3  1999 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1361 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N4 18063315121424468776841394706747 32
+N4 1033 3 1291 3 1553 2 1777 2  TrialDivision with bound:1000000 and length:10
+N4  1553 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1777 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N5 52065415254431970913156375768427 32
+N5 1201 3 1279 1 1427 1 1451 1 1747 2 1879 1 1979 1  TrialDivision with bound:1000000 and length:10
+N5  1279 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1201 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N6 79617516433484608487286417588949500109 38
+N6 1283 3 1291 1 1321 3 1493 3 1951 2  TrialDivision with bound:1000000 and length:10
+N6  1493 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1321 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N7 7696690982041032223536306591934241 34
+N7 129221 1 504593 1 525869 1 552749 1 587263 1 691499 1  TrialDivision with bound:1000000 and length:10
+N7  587263 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+504593 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N8 29306081729217262791162079172896271 35
+N8 341569 1 469141 1 508477 1 572567 1 751969 1 835369 1  TrialDivision with bound:1000000 and length:10
+N8  751969 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+751969 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N9 13490699863228332154492051782011371 35
+N9 159937 1 326159 1 568387 1 655693 1 764471 1 907717 1  TrialDivision with bound:1000000 and length:10
+N9  655693 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+159937 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N10 27933357565942078417780001381279269 35
+N10 279073 1 296969 1 576161 1 699943 1 841327 1 993397 1  TrialDivision with bound:1000000 and length:10
+N10  841327 1  Using Pollard Rho with f(x):xÂ²+7 and a maximum of 100000 iterations
+279073 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N11 15791941410456156312508410327078929 35
+N11 349717 1 418331 1 439787 1 520607 1 564251 1 835553 1  TrialDivision with bound:1000000 and length:10
+N11  520607 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+564251 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N12 2992060526692601278017179365187699 34
+N12 1577453 1 3102731 1 5895089 1 7838057 1 13230341 1  TrialDivision with bound:24000000 and length:10
+N12  3102731 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+3102731 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N13 7007884240806300596241285733353197 34
+N13 2686973 1 2698253 1 5469559 1 11656069 1 15161303 1  TrialDivision with bound:24000000 and length:10
+N13  2698253 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+15161303 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N14 1957955439302821383896943177677063 34
+N14 1790869 1 3779213 1 4949753 1 7225189 1 8089187 1  TrialDivision with bound:24000000 and length:10
+N14  4949753 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1790869 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N15 1865335008205330192779072516817771 34
+N15 260879 1 3377813 1 7149479 1 13784713 1 21478799 1  TrialDivision with bound:24000000 and length:10
+N15  260879 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+260879 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N16 1998761405387706851281702367368673 34
+N16 1084043 1 1892927 1 3860093 1 13807273 1 18275737 1  TrialDivision with bound:24000000 and length:10
+N16  1892927 1  Using Pollard Rho with f(x):x²+7 and a maximum of 100000 iterations
+1892927 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N17 2377129073992268618899272983512591 34
+N18 3218220016059292314500145576546353 34
+46231218577475959 1 Using p-1 factorisation, Bound1: 1500000, Bound2: 1000000
+N19 3836043059373611935528948331938213 34
+N20 4765056827518867205783593928033833 34
