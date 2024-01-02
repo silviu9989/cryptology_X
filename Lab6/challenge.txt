@@ -1,0 +1,10 @@
+x13=100584692772418998408930561226725057305789123424866523872815803373857333470927
+
+I factored N using quadratic sieve congruences, using a ~20000 lines matrix(congruences). I got these factors:
+
+p=236078351333115592274916181677612332227
+q=586320685884214286037530028376646354401
+
+I got p, q. I computed lambda(N)= lcm(p, q)
+I used linear_equation_mod to get d such that de=1 mod N
+I raised y^d mod N and I got x13.
